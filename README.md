@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirjeshChoudhary
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
