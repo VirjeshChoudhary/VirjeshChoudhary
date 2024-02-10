@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virjesh Choudhary</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning webdev
 
 - 💬 Ask me about **html,css,js,tailwind,bootstrap,jquery,nodejs,express,mongodb**
 
